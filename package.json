@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zlkcyber/megafin-bot.git"
+    "url": "git+https://github.com/Mittyadav/megafin-bot.git"
   },
   "keywords": [
     "megafin",
     "bot"
   ],
-  "author": "@zlkcyber",
+  "author": "@iamak_roy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Zlkcyber/megafin-bot/issues"
+    "url": "https://github.com/Mittyadav/megafin-bot/issues"
   },
-  "homepage": "https://github.com/Zlkcyber/megafin-bot#readme",
+  "homepage": "https://github.com/Mittyadav/megafin-bot#readme",
   "dependencies": {
     "@2captcha/captcha-solver": "^1.3.0",
     "@antiadmin/anticaptchaofficial": "^1.0.49",
